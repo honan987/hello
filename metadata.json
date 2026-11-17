@@ -1,0 +1,6 @@
+{
+  "name": "Our Little Farm 2.0",
+  "description": "2D Pixel Art Cozy Farming & Romance Simulation - Khu Vườn Có Cậu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
